@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(47, 146, 113);
+}
+#display{
+    background-color: rgb(45, 43, 43);
+    width: 30%;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 10%;
+    border-radius: 10px;
+
+}
+.btn {
+    background-color: black;
+    color: blueviolet;
+    border-radius: 50%;
+    box-shadow: 2px solid grey;
+    margin-left: 10px;
+    font-size: 20px;
+    height: 50px;
+    width: 50px;
+    margin-bottom:10px ;
+    cursor: pointer;
+    
+}
+#sym{
+    background-color: black;
+    color: blueviolet;
+    border-radius: 50%;
+    box-shadow: 2px solid grey;
+    margin-left: 10px;
+     font-size: 20px;
+    height: 50px;
+    width: 50px;
+     margin-bottom:10px ;
+    cursor: pointer;
+
+}
+#show{
+      border: none;
+      outline: none;
+      cursor: pointer;
+      background-color:transparent;
+      color: aqua;
+      text-align: right;
+      height: 80px;
+      font-size: 20px;
+
+}
